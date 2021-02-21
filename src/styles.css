@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files */
+
+.toolbar{
+    border-bottom:2px #ccc solid;
+    width:100%;
+    padding:20px 0px;
+    margin-bottom:20px;
+    text-align:center;
+    font-size:20px;
+}
